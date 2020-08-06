@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aliyun.Demo", "Aliyun.Demo\Aliyun.Demo.csproj", "{6320AA7C-7409-446C-8376-B34FAE28BDAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "King.Configuration", "King.Configuration\King.Configuration.csproj", "{AC57EF33-92BE-4C3C-B564-034A668B00F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6320AA7C-7409-446C-8376-B34FAE28BDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6320AA7C-7409-446C-8376-B34FAE28BDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6320AA7C-7409-446C-8376-B34FAE28BDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6320AA7C-7409-446C-8376-B34FAE28BDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC57EF33-92BE-4C3C-B564-034A668B00F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC57EF33-92BE-4C3C-B564-034A668B00F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC57EF33-92BE-4C3C-B564-034A668B00F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC57EF33-92BE-4C3C-B564-034A668B00F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2347BF1B-C3E1-478F-8937-283DE5254531}
+	EndGlobalSection
+EndGlobal
